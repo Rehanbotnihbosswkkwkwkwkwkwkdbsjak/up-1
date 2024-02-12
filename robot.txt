@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap:https://rsud-mobile.ciamiskab.go.id/assets/fonts/css/agn7/
